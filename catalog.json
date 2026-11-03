@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "programs": [
+    {
+      "id": "shahd-fuzet",
+      "version": "0.15.0",
+      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.0/SH-B-CARD-Setup-0.15.0.exe",
+      "sizeBytes": 35297559,
+      "sha256": "770cee06e55d36b8a02ae74be263bf7bcfb9552dbdc76a5af0f93bb3f0cf8092"
+    }
+  ]
+}
