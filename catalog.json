@@ -3,11 +3,11 @@
   "programs": [
     {
       "id": "shahd-fuzet",
-      "version": "0.15.3",
-      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.3/SH-B-CARD-Setup-0.15.3.exe",
-      "sizeBytes": 35309266,
-      "sha256": "80974e2dab6bd7466ad4abb5391fd4f3b613b1df0e44c443aaf85f36247fc48e",
-      "releaseNotes": "Encrypted SHD saves; offline editing; backward-compatible opening of unencrypted SHD and SHAHDN; encrypted files require 0.15.3 or newer."
+      "version": "0.15.4",
+      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.4/SH-B-CARD-Setup-0.15.4.exe",
+      "sizeBytes": 35078656,
+      "sha256": "066b9ed28397cbea6af2b3aa7f4200c4033949cc1059c41b69695faf3806d271",
+      "releaseNotes": "Modern Arabic designer-gallery installer; integrity checks and verified completion; encrypted SHD and legacy SHD/SHAHDN compatibility retained (0.15.3+)."
     }
   ]
 }
