@@ -1,10 +1,10 @@
 # SH Design Studio — Windows downloads
 
-ملفات تثبيت برامج شهد ديزاين وفهرس التحديثات فقط. كود البرامج يبقى خاصًا.
+ملفات التثبيت وفهرس التحديثات فقط؛ كود البرامج خاص.
 
-- [تنزيل SH ONE Launcher 1.5.0](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/loader-1.5.0/SH-One-Launcher-1.5.0.zip)
-- [تنزيل SH B-CARD 0.15.0](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.0/SH-B-CARD-Setup-0.15.0.exe)
+- [تنزيل SH ONE Launcher 1.5.1](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/loader-1.5.1/SH-One-Launcher-1.5.1.zip)
+- [تنزيل SH B-CARD 0.15.1](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.1/SH-B-CARD-Setup-0.15.1.exe)
 
-فك ضغط اللودر مرة واحدة وافتح Shahd-Launcher.exe. يفحص اللودر الإصدارات عند فتحه، ويمكنك الضغط على زر التحقق من التحديثات. عند توفر إصدار جديد يظهر زر تحديث؛ أغلق SH B-CARD بعد حفظ عملك ثم حدّثه من اللودر.
+يدعم هذا الإصدار مشاريع وقوالب .shd مع استمرار فتح .shahdn. فك ضغط اللودر مرة واحدة وشغّل Shahd-Launcher.exe. للتحديث أونلاين، اضغط التحقق من التحديثات ثم تحديث بجانب SH B-CARD، بعد حفظ عملك وإغلاق البرنامج.
 
-عند نقل المثبّتات إلى R2 لاحقًا، تتغير روابط الملفات داخل فهرس التحديث فقط، دون تغيير رابط الفهرس أو إعادة تثبيت اللودر.
+عند نقل المثبتات إلى R2 لاحقًا تتغير روابط التنزيل داخل الفهرس دون تغيير رابط الفهرس.
