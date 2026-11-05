@@ -3,9 +3,9 @@
 ملفات التثبيت وفهرس التحديثات فقط؛ كود البرامج خاص.
 
 - [تنزيل SH ONE Launcher 1.5.1](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/loader-1.5.1/SH-One-Launcher-1.5.1.zip)
-- [تنزيل SH B-CARD 0.15.3](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.3/SH-B-CARD-Setup-0.15.3.exe)
+- [تنزيل SH B-CARD 0.15.4](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.4/SH-B-CARD-Setup-0.15.4.exe)
 
-يدعم الإصدار تشفير ملفات .shd عند الحفظ وفتحها دون حساب أو إنترنت، مع استمرار دعم ملفات .shd و.shahdn القديمة. الملفات المشفّرة تحتاج 0.15.3 أو أحدث.
+يدعم الإصدار تشفير ملفات .shd عند الحفظ وفتحها دون حساب أو إنترنت، مع استمرار دعم ملفات .shd و.shahdn القديمة. الملفات المشفّرة تحتاج 0.15.3 أو أحدث. واجهة تثبيت جديدة بمعرض بطاقات وعربية واضحة.
 
 فك ضغط اللودر مرة واحدة وشغّل Shahd-Launcher.exe. اضغط التحقق من التحديثات ثم تحديث بجانب SH B-CARD، بعد حفظ عملك وإغلاق البرنامج. حزمة اللودر تتضمن المثبّت الأساسي وتتحقق أونلاين من آخر إصدار.
 
