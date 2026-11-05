@@ -3,10 +3,11 @@
   "programs": [
     {
       "id": "shahd-fuzet",
-      "version": "0.15.2",
-      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.2/SH-B-CARD-Setup-0.15.2.exe",
-      "sizeBytes": 35054035,
-      "sha256": "f99bad9409f30037bc0f50865362dd76fd39c21b1508655b2f7096a3bd8caabb"
+      "version": "0.15.3",
+      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.3/SH-B-CARD-Setup-0.15.3.exe",
+      "sizeBytes": 35309266,
+      "sha256": "80974e2dab6bd7466ad4abb5391fd4f3b613b1df0e44c443aaf85f36247fc48e",
+      "releaseNotes": "Encrypted SHD saves; offline editing; backward-compatible opening of unencrypted SHD and SHAHDN; encrypted files require 0.15.3 or newer."
     }
   ]
 }
