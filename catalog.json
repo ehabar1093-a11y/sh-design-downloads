@@ -3,10 +3,10 @@
   "programs": [
     {
       "id": "shahd-fuzet",
-      "version": "0.15.0",
-      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.0/SH-B-CARD-Setup-0.15.0.exe",
-      "sizeBytes": 35297559,
-      "sha256": "770cee06e55d36b8a02ae74be263bf7bcfb9552dbdc76a5af0f93bb3f0cf8092"
+      "version": "0.15.1",
+      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.1/SH-B-CARD-Setup-0.15.1.exe",
+      "sizeBytes": 35039018,
+      "sha256": "41a901fd4a99d1d4f0203154ef9cad0f8a7a7131428d008828d68523cfaa43ba"
     }
   ]
 }
