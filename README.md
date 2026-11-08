@@ -3,7 +3,7 @@
 ملفات التثبيت وفهرس التحديثات فقط؛ كود البرامج خاص.
 
 - [تنزيل SH ONE Launcher 1.5.1](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/loader-1.5.1/SH-One-Launcher-1.5.1.zip)
-- [تنزيل SH B-CARD 0.15.6](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.6/SH-B-CARD-Setup-0.15.6.exe)
+- [تنزيل SH B-CARD 0.15.7](https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.7/SH-B-CARD-Setup-0.15.7.exe)
 
 يدعم الإصدار تشفير ملفات .shd عند الحفظ وفتحها دون حساب أو إنترنت، مع استمرار دعم ملفات .shd و.shahdn القديمة. الملفات المشفّرة تحتاج 0.15.3 أو أحدث. واجهة تثبيت جديدة بمعرض بطاقات وعربية واضحة.
 
