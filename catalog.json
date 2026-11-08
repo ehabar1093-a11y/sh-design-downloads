@@ -3,11 +3,11 @@
   "programs": [
     {
       "id": "shahd-fuzet",
-      "version": "0.15.6",
-      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.6/SH-B-CARD-Setup-0.15.6.exe",
-      "sizeBytes": 38455808,
-      "sha256": "253a831d6c2ada1f038eaedbef71e915370f068579f17f50cac2f886bc780c7c",
-      "releaseNotes": "24 visual identities, custom colors/fonts/logo, live previews, semantic layer roles and locks, one-step undo. Encrypted SHD and legacy projects retained."
+      "version": "0.15.7",
+      "downloadUrl": "https://github.com/ehabar1093-a11y/sh-design-downloads/releases/download/bcard-0.15.7/SH-B-CARD-Setup-0.15.7.exe",
+      "sizeBytes": 38457856,
+      "sha256": "f4a1f53bf81c2d0fce5ee91f6085c009808c6c29016b367e02d486b3c06e2b8d",
+      "releaseNotes": "Fixes false installer failure; includes 24 visual identities, custom colors/fonts/logo, live previews, semantic layer roles and locks, one-step undo. Encrypted SHD and legacy projects retained."
     }
   ]
 }
